@@ -1,0 +1,22 @@
+C:\Users\Luilly\Documents\Visual Studio 2015\Projects\ProdAcademica\Bd\bin\Debug\Bd.exe.config
+C:\Users\Luilly\Documents\Visual Studio 2015\Projects\ProdAcademica\Bd\bin\Debug\Bd.exe
+C:\Users\Luilly\Documents\Visual Studio 2015\Projects\ProdAcademica\Bd\bin\Debug\Bd.pdb
+C:\Users\Luilly\Documents\Visual Studio 2015\Projects\ProdAcademica\Bd\bin\Debug\Db4oBench.dll
+C:\Users\Luilly\Documents\Visual Studio 2015\Projects\ProdAcademica\Bd\bin\Debug\Db4objects.Db4o.Data.Services.dll
+C:\Users\Luilly\Documents\Visual Studio 2015\Projects\ProdAcademica\Bd\bin\Debug\Db4objects.Db4o.dll
+C:\Users\Luilly\Documents\Visual Studio 2015\Projects\ProdAcademica\Bd\bin\Debug\Db4objects.Db4o.Linq.dll
+C:\Users\Luilly\Documents\Visual Studio 2015\Projects\ProdAcademica\Bd\bin\Debug\Mono.Reflection.dll
+C:\Users\Luilly\Documents\Visual Studio 2015\Projects\ProdAcademica\Bd\bin\Debug\Db4objects.Db4o.xml
+C:\Users\Luilly\Documents\Visual Studio 2015\Projects\ProdAcademica\Bd\obj\Debug\Bd.exe
+C:\Users\Luilly\Documents\Visual Studio 2015\Projects\ProdAcademica\Bd\obj\Debug\Bd.pdb
+C:\Users\Riki_\Desktop\ProdAcademica\Bd\bin\Debug\Bd.exe.config
+C:\Users\Riki_\Desktop\ProdAcademica\Bd\bin\Debug\Bd.exe
+C:\Users\Riki_\Desktop\ProdAcademica\Bd\bin\Debug\Bd.pdb
+C:\Users\Riki_\Desktop\ProdAcademica\Bd\bin\Debug\Db4objects.Db4o.Data.Services.dll
+C:\Users\Riki_\Desktop\ProdAcademica\Bd\bin\Debug\Db4objects.Db4o.Linq.dll
+C:\Users\Riki_\Desktop\ProdAcademica\Bd\bin\Debug\Mono.Reflection.dll
+C:\Users\Riki_\Desktop\ProdAcademica\Bd\bin\Debug\Db4objects.Db4o.xml
+C:\Users\Riki_\Desktop\ProdAcademica\Bd\obj\Debug\Bd.csprojResolveAssemblyReference.cache
+C:\Users\Riki_\Desktop\ProdAcademica\Bd\obj\Debug\Bd.csproj.CoreCompileInputs.cache
+C:\Users\Riki_\Desktop\ProdAcademica\Bd\obj\Debug\Bd.exe
+C:\Users\Riki_\Desktop\ProdAcademica\Bd\obj\Debug\Bd.pdb
